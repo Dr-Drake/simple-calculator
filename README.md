@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo Website
-:point_right: https://simple-todo-example.netlify.app
+:point_right: https://calculator-dlta.netlify.app/
 
 ## Available Scripts
 
